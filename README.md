@@ -107,6 +107,4 @@ This project demonstrates the ability to:
 * Translate business problems into **structured SQL solutions**
 * Generate **data-driven insights** useful for decision-making
 
-It is well-suited for **Data Analyst, BI Analyst, MIS, and Product Analyst roles**.
-
 ---
